@@ -1,2 +1,4 @@
 # Kasturi-PM-Portfolio
-Portfolio to showcase some wireframes, prototypes, case studies, templates as well as success stories from my career in Digital Transformation
+Hi, I'm Kasturi
+
+I'm a Digital Transformation consultant with 7.5 years of experience in product development, business analysis, project management, CRM platforms, with deep expertise in the Salesforce ecosystem. Proven track record in defining product strategy, driving roadmaps, and delivering measurable business outcomes through Agile, Scrum, and iterative development. Skilled in OKRs, Design Thinking, prototyping, and backlog refinement to prioritize features and enhance user satisfaction. Adept at collaborating with cross-functional teams and stakeholders, lead complete product development lifecycle and track post-launch product performance. Well versed with supporting project management tools like Azure Dev Ops and wireframing tools like Miro, AI prototyping tool like Lovable. 
